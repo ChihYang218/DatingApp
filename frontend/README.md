@@ -22,5 +22,5 @@
 <div>
   <h1 style="color: pink">How to test ?</h1>
   <h2>Open the terminal and enter fllowing command:</h2>
-  <>
+  <p style="color: green">npm start</p>
 </div>
